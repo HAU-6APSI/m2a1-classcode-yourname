@@ -21,6 +21,10 @@
 //   2. Curly braces { } let you drop a JavaScript value into JSX, e.g. {name}.
 
 export default function Hello() {
-  // TODO: declare a `name` and return the <h1> and <p> described above.
-  return null
+  return (
+    <>
+      <h1>Hello, React!</h1>
+      <p>My name is Your Name</p>
+    </>
+  );
 }
