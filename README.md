@@ -1,5 +1,9 @@
 # Module 2 - Activity 1 - Hello React
 
+[![Made with Claude](https://img.shields.io/badge/Made_with-Claude-D97757?logo=anthropic&logoColor=white)](https://tjakoen.github.io/notes/ten-times-zero)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=white)
+
 > **Your first React activity, and the gentlest one.** You write one small
 > component and see it appear in the browser. The goal is to get comfortable with
 > the tools, not to learn anything hard. You are **done when `npm test` is all
@@ -100,3 +104,6 @@ allowance. Three habits keep you from wasting it:
    gets its own Codespace, so old ones pile up and use your storage. After your
    final push: **github.com/codespaces → ••• → Delete.** You can always recreate
    it later from the green **Code** button.
+
+---
+📚 **These materials were authored by [tjakoen](https://github.com/tjakoen), built with Claude.** I use AI in the open, and I expect you to use it to learn the material, not to skip the learning. [How I actually work with AI →](https://tjakoen.github.io/notes/ten-times-zero)
